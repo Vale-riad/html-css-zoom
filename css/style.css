@@ -30,7 +30,7 @@ header a{
 }
 main {
     height: calc(100% - 120px);
-    width: 90%;
+    width: 90%
     margin: auto;
     overflow-y: auto;
 }
@@ -44,7 +44,7 @@ main {
 }
 
 .utente {
-    width: 200px;
+    width: 500px;
     height: 250px;
     position: relative;
     margin: 3px;
