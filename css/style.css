@@ -70,3 +70,11 @@ footer {
     
 }
 
+.footer .attività{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+
+
+}
