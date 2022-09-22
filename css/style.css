@@ -40,11 +40,11 @@ main {
     display: flex;
     height: 100%;
     width: 100%;
-    flex-wrap: no-wrap;  
+    flex-wrap: wrap;  
 }
 
 .utente {
-    width: 500px;
+    width: calc(100%/7);
     height: 250px;
     position: relative;
     margin: 3px;
@@ -67,4 +67,5 @@ main {
 footer {
     height: 90px;
     background-color: bisque;
+    
 }
